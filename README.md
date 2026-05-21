@@ -31,7 +31,7 @@ AI/ML undergraduate passionate about building AI-driven systems and scalable sof
 - Built using TensorFlow, OpenCV, MediaPipe, and Streamlit
 - Supports sign-to-text and speech-based interaction
 
-## 📈 Coding Profiles
+## 📈 Profiles
 - LeetCode: https://leetcode.com/u/sanjanar_/
 - LinkedIn: https://linkedin.com/in/sanjana-r-24989a339
 
