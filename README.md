@@ -33,7 +33,7 @@ AI/ML undergraduate passionate about building AI-driven systems and scalable sof
 
 ## 📈 Profiles
 - LeetCode: https://leetcode.com/u/sanjanar_/
-- LinkedIn: https://linkedin.com/in/sanjana-r-24989a339
+- LinkedIn: https://www.linkedin.com/in/rsanjana29/
 
 ---
 ⭐ Exploring AI research, software engineering, and scalable intelligent systems.
