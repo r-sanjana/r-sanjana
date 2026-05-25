@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI%2FML+Undergraduate;Building+AI-powered+Applications;Interested+in+Software+Engineering;Learning+Agentic+AI+and+RAG" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=AIML+Undergraduate+at+BMSIT;AI+%26+Software+Development+Enthusiast;Building+AI-powered+Applications;Exploring+RAG+and+Agentic+AI)](https://git.io/typing-svg)
+
+</div>
 
 <h1 align="center">👋 Hi, I'm Sanjana R</h1>
 
