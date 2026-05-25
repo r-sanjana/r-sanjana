@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=AI%2FML+Undergraduate;Building+AI-powered+Applications;Interested+in+Software+Engineering;Learning+Agentic+AI+and+RAG" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Sanjana R</h1>
 
 <h3 align="center">
