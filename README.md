@@ -46,5 +46,5 @@ Machine learning-based fraud detection system using Random Forest and SMOTE.
 
 # 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rsanjana29/
-- Email: sanjananaidu0129@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/rsanjana29)
+- 📧 [sanjananaidu0129@gmail.com](mailto:sanjananaidu0129@gmail.com)
