@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=AIML+Undergraduate+at+BMSIT;AI+%26+Software+Development+Enthusiast;Building+AI-powered+Applications;Exploring+RAG+and+Agentic+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=AIML+Undergraduate+at+BMSIT;AI+%26+Software+Development+Enthusiast;Building+AI-powered+Applications)](https://git.io/typing-svg)
 
 </div>
 
