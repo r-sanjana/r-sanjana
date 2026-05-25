@@ -62,11 +62,11 @@ AIML Undergraduate | AI & Software Development Enthusiast
 
 ### 💳 Fraud Detection System using Machine Learning
 - Developed a fraud detection system using Random Forest and SMOTE for highly imbalanced financial transaction datasets.
-- Achieved strong fraud classification performance with **ROC-AUC score of 0.97** using feature analysis and preprocessing workflows.
+- Achieved strong fraud classification performance using feature analysis and preprocessing workflows.
 
 ### 📄 DocuMind AI – RAG-Based Document Query System
 - Developed an AI-powered document query assistant using Retrieval-Augmented Generation (RAG).
-- Implemented semantic search and intelligent document interaction for contextual question answering.
+- Implemented semantic search and document interaction for contextual question answering.
 
 ---
 
