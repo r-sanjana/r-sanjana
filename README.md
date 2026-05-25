@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Sanjana R</h1>
 
 <h3 align="center">
-AIML Undergraduate | AI & Software Development Enthusiast
+AI & Software Development Enthusiast
 </h3>
 
 <p align="center">
@@ -18,7 +18,6 @@ AIML Undergraduate | AI & Software Development Enthusiast
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.E. in Artificial Intelligence & Machine Learning at BMSIT&M
 - 💡 Passionate about AI, Machine Learning, Software Development, and Intelligent Systems
 - 🧠 Interested in RAG, Agentic AI, Federated Learning, Computer Vision, and Real-time AI Applications
 - 💻 Building scalable AI-powered applications with strong focus on practical problem-solving
