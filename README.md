@@ -57,7 +57,7 @@ AI & Software Development Enthusiast
 
 ## 📌 Featured Projects
 
-### 🧠 FedGDA – Federated Medical Image Segmentation
+### 🧠 FedGDA – Federated Medical Image Segmentation(ongoing)
 - Developed a federated learning framework for multi-organ CT image segmentation using Attention U-Net and FedAvg aggregation.
 - Achieved Dice Scores of **0.9069 (centralized)** and **0.8467 (federated)** using non-IID client datasets.
 
