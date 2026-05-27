@@ -59,7 +59,7 @@ AI & Software Development Enthusiast
 
 ### 🧠 FedGDA – Federated Medical Image Segmentation(ongoing)
 - Developed a federated learning framework for multi-organ CT image segmentation using Attention U-Net and FedAvg aggregation.
-- Achieved Dice Scores of **0.9069 (centralized)** and **0.8467 (federated)** using non-IID client datasets.
+- Achieved Dice Scores of **0.9090 (centralized)** and **0.8036 (federated)** using non-IID client datasets.
 
 ### 🤟 SAMVAAD – Multimodal Indian Sign Language Translator
 - Built a real-time Indian Sign Language translation system supporting sign-to-text, speech-to-sign, and text-to-sign conversion.
