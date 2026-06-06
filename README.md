@@ -65,13 +65,13 @@ AI & Software Development Enthusiast
 - Built a real-time Indian Sign Language translation system supporting sign-to-text, speech-to-sign, and text-to-sign conversion.
 - Implemented gesture recognition and hand landmark tracking using TensorFlow, OpenCV, and MediaPipe.
 
-### 💳 Fraud Detection System using Machine Learning
-- Developed a fraud detection system using Random Forest and SMOTE for highly imbalanced financial transaction datasets.
-- Achieved strong fraud classification performance using feature analysis and preprocessing workflows.
-
 ### 📄 DocuMind AI – RAG-Based Document Query System
 - Developed an AI-powered document query assistant using Retrieval-Augmented Generation (RAG).
 - Implemented semantic search and document interaction for contextual question answering.
+
+### 💳 Fraud Detection System using Machine Learning
+- Developed a fraud detection system using Random Forest and SMOTE for highly imbalanced financial transaction datasets.
+- Achieved strong fraud classification performance using feature analysis and preprocessing workflows.
 
 ---
 
