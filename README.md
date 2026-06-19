@@ -61,7 +61,7 @@ AI & Software Development Enthusiast
 - Developed a federated learning framework for multi-organ CT image segmentation using Attention U-Net and FedAvg aggregation.
 - Achieved Dice Scores of **0.9090 (centralized)** and **0.8036 (federated)** using non-IID client datasets.
 
-## 📊 VendorOS – AI-Powered Business Operating System for Street Food Vendors(ongoing)
+### 📊 VendorOS – AI-Powered Business Operating System for Street Food Vendors(ongoing)
 
 - Built a vendor management system for small businesses with **inventory, sales, expense, and analytics modules**.
 - Integrated low-stock alerts, revenue tracking, top-product analytics, and AI-powered insights using Next.js, FastAPI, and PostgreSQL.
