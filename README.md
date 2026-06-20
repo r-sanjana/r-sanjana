@@ -74,7 +74,7 @@ AI & Software Development Enthusiast
 - Developed an AI-powered document query assistant using Retrieval-Augmented Generation (RAG).
 - Implemented semantic search and document interaction for contextual question answering.
 
-### 💳 [Fraud Detection System using Machine Learning]
+### 💳 [Fraud Detection System using Machine Learning](https://github.com/r-sanjana/Fraud-Detection-System-using-Machine-Learning)
 - Developed a fraud detection system using Random Forest and SMOTE for highly imbalanced financial transaction datasets.
 - Achieved strong fraud classification performance using feature analysis and preprocessing workflows.
 
