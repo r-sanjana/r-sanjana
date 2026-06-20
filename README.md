@@ -66,7 +66,7 @@ AI & Software Development Enthusiast
 - Built a vendor management system for small businesses with **inventory, sales, expense, and analytics modules**.
 - Integrated low-stock alerts, revenue tracking, top-product analytics, and AI-powered insights using Next.js, FastAPI, and PostgreSQL.
 
-### 🤟 [SAMVAAD – Multimodal Indian Sign Language Translator]
+### 🤟 [SAMVAAD – Multimodal Indian Sign Language Translator](https://github.com/r-sanjana/SAMVAAD-Multimodal-Indian-Sign-Language-Translator)
 - Built a real-time Indian Sign Language translation system supporting sign-to-text, speech-to-sign, and text-to-sign conversion.
 - Implemented gesture recognition and hand landmark tracking using TensorFlow, OpenCV, and MediaPipe.
 
