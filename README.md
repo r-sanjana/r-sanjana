@@ -70,7 +70,7 @@ AI & Software Development Enthusiast
 - Built a real-time Indian Sign Language translation system supporting sign-to-text, speech-to-sign, and text-to-sign conversion.
 - Implemented gesture recognition and hand landmark tracking using TensorFlow, OpenCV, and MediaPipe.
 
-### 📄 DocuMind AI – RAG-Based Document Query System (https://github.com/r-sanjana/DocuMind-AI-RAG-based-document-query-system)
+### 📄 DocuMind AI – RAG-Based Document Query System 
 - Developed an AI-powered document query assistant using Retrieval-Augmented Generation (RAG).
 - Implemented semantic search and document interaction for contextual question answering.
 
